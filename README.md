@@ -43,6 +43,6 @@
 • Run.bat file is an executable batch. Please double click the file to run the code once initial setup is completed.
 
 
-## output
+## Output
    ------
 • Output for all the modules will be generated in the form of excel file.
